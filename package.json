@@ -1,0 +1,19 @@
+{
+  "name": "webpack_170807",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "b": "webpack -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "file-loader": "^0.11.2",
+    "style-loader": "^0.18.2"
+  }
+}
